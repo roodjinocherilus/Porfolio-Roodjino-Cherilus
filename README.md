@@ -37,15 +37,14 @@
 
 # 📖 [your_project_name] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
 
 **[your_project__name]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-8
-> A personal Portofolio Website with only basic background information, contact information, and a project showcase.
+
+A personal Portofolio Website with only basic background information, contact information, and a project showcase.
 
 <!-- Features -->
 
@@ -62,7 +61,6 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
 
 - [Live Demo Link](https://roodjinocherilus.github.io/Porfolio-Roodjino-Cherilus/)
 
@@ -141,7 +139,6 @@ You can deploy this project using:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
 
 👤 **Author1**
 
@@ -166,8 +163,6 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
 If you like this project...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -176,7 +171,6 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank...
 
