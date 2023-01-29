@@ -115,6 +115,11 @@ document.getElementById('contact').addEventListener('submit', (e) => {
   const emailRegEx = /^[a-z0-9_.]+@[a-z0-9_.]+\.[a-z0-9_.]+/;
   if (!emailRegEx.test(emailInput.value)) {
     document.getElementById('error').innerText = 'Note: Email Validation Error. Email must be in lower case Only.';
+    document.getElementById('error').classList.remove("hidden")
+    setTimeout(() => {
+      document.getElementById('error').classList.add("hidden");
+    }, 3500);
+
     e.preventDefault();
   } else {
     form.submit();
