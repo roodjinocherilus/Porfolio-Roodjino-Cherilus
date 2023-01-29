@@ -1,68 +1,196 @@
-# Porfolio-mobile-version-skeleton
-Personal Porfolio from Microverse
-In this repository, with guidance from Microverse, we will create a complete porfolio from scratch (Mobile and Desktop Version)
+<a name="readme-top"></a>
 
-## Live Version 
-https://roodjinocherilus.github.io/Porfolio-mobile-version-skeleton/
+<div align="center">
+  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
+  <img src="./images/porfolio-project.png" alt="logo" width="500"  height="auto" />
+  <br/>
 
-## Built With
+  <h2><b>Porfolio Website of Rooddjino Cherilus</b></h2>
 
-- HTML
-- CSS
-- SS
+</div>
+
+<!-- TABLE OF CONTENTS -->
+
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
+
+<!-- PROJECT DESCRIPTION -->
+
+# 📖 [your_project_name] <a name="about-project"></a>
+
+> Describe your project in 1 or 2 sentences.
+
+**[your_project__name]** is a...
+
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+8
+> A personal Portofolio Website with only basic background information, contact information, and a project showcase.
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+> Features:
+
+- **[Fully Responsive]**
+- **[Project Showcase rendered dynammically with Javascript]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Add a link to your deployed project.
+
+- [Live Demo Link](https://roodjinocherilus.github.io/Porfolio-mobile-version-skeleton/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
 
 
-To get a local copy up and running follow these simple example steps.
+
+To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-Git Bash
-Node Js
+In order to run this project you need:
+
+Git Bash , Node JS
 
 ### Setup
 
+Clone this repository to your desired folder:
+
+<!--
+Example commands:
+
+```sh
+  cd my-folder
+  git clone git@github.com:myaccount/my-project.git
+```
+--->
 Open Git Bash and run git clone https://github.com/roodjinocherilus/Portfolio-mobile-version-skeleton.git
+
 
 ### Install
 
-Run npm install in the folder Portfolio-mobile-version-skeleton
+Install this project with:
+
+<!--
+Example command:
+
+```sh
+  cd my-project
+  gem install
+```
+--->
 
 ### Usage
 
-Open The folder in your file explorer then, right click on index.html and open with your browser.
+To run the project, execute the following command:
+
+<!--
+Example command:
+
+```sh
+  rails server
+```
+--->
+
+Run npm install in the folder Portfolio-mobile-version-skeleton
+
 
 ### Run tests
 
+To run tests, run the following command:
 Run npx stylelint "**/*.{css,scss}"
 
+### Deployment
+
+You can deploy this project using:
+- Github Pages
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+> Mention all of the collaborators of this project.
+
+👤 **Author1**
+
+- GitHub: [@roodjinocherilus](hhttps://github.com/roodjinocherilus)
+- Twitter: [@twitterhandle](https://twitter.com/roodjinocherilu)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/roodjinocherilus/)
 
 
-## Authors
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-👤 **Roodjino Cherilus**
+<!-- CONTRIBUTING -->
 
-- GitHub: [@roodjinocherilus](https://github.com/roodjinocherilus)
-- Twitter: [@roodjinocherilus](https://twitter.com/roodjinocherilu)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/cherilusjcr/)
+## 🤝 Contributing <a name="contributing"></a>
 
-👤 **Emmanuel Cortes**
+Contributions, issues, and feature requests are welcome!
 
-- GitHub: [@emmanuelcortes2](https://github.com/emmanuelcortes2)
+Feel free to check the [issues page](../../issues/).
 
-👤 **Giovanni Juliao**
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-- GitHub: [@giovanni](https://github.com/gjuliao)
+<!-- SUPPORT -->
 
-## Show your support
+## ⭐️ Show your support <a name="support"></a>
 
-Give a ⭐️ if you like this project!
+> Write a message to encourage readers to support your project
 
-## Acknowledgments
+If you like this project...
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 📝 License
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+> Give credit to everyone who inspired your codebase.
+
+I would like to thank...
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FAQ (optional) -->
+
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
